@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on 面试猿</title>
+    <link>https://www.mianshiyuan.com/linux/</link>
+    <description>Recent content in Linux on 面试猿</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;2021-{year} · 面试猿(mianshiyuan.com) · 版权所有 </copyright>
+    <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.mianshiyuan.com/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Related content</title>
+        <link>https://www.mianshiyuan.com/linux/relatedcontent/</link>
+        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
+        
+        <guid>https://www.mianshiyuan.com/linux/relatedcontent/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+    
+  </channel>
+</rss>

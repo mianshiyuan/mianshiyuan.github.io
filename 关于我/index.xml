@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>关于我s on 面试猿</title>
+    <link>https://www.mianshiyuan.com/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+    <description>Recent content in 关于我s on 面试猿</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;2021-{year} · 面试猿(mianshiyuan.com) · 版权所有 </copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:38:51 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.mianshiyuan.com/%E5%85%B3%E4%BA%8E%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>关于我</title>
+        <link>https://www.mianshiyuan.com/%E5%85%B3%E4%BA%8E%E6%88%91/about/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
+        
+        <guid>https://www.mianshiyuan.com/%E5%85%B3%E4%BA%8E%E6%88%91/about/</guid>
+        <description>当我在博客园写了快4年的博客之后，终于决定走出博客园看看。 浏览过一些大神的博客之后，喜欢上了页面简洁干净的静态博客hexo，这个风格也和我的</description>
+      </item>
+      
+    
+  </channel>
+</rss>
