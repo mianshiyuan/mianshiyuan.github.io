@@ -4309,7 +4309,8 @@ input:checked+.slider:before {
     -webkit-justify-content: center;
     -moz-justify-content: center;
     -ms-justify-content: center;
-    justify-content: center;
+    //justify-content: center;
+    justify-content: space-between;
     -ms-flex-pack: center
 }
 
